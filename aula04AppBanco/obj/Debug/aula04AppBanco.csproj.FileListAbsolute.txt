@@ -1,0 +1,11 @@
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\bin\Debug\aula04AppBanco.exe.config
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\bin\Debug\aula04AppBanco.exe
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\bin\Debug\aula04AppBanco.pdb
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.csproj.AssemblyReference.cache
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.Form1.resources
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.Properties.Resources.resources
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.csproj.GenerateResource.cache
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.csproj.CoreCompileInputs.cache
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.exe
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.pdb
+C:\Users\Public\source\repos\aula04AppBanco\aula04AppBanco\obj\Debug\aula04AppBanco.Form2.resources
